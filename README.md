@@ -17,6 +17,8 @@ Welcome to the Tink.ai Dashboard Design repo! 🎨 This repository houses the de
 
 Access the Figma design file to explore the dashboard's components and widgets. Perfect for inspiration!
 
+🔗 **Design File Link**: [View on Google Drive](https://drive.google.com/file/d/149s7gSuOwU2pR2i9lVMIJ7K9Jz2dODma/view?usp=sharing)
+
 ## Get Started 🛠️
 
 1. Clone the repo.
